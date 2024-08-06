@@ -5,7 +5,8 @@ Design de Landing Zone Azure
 
 
 
-# Instruction of start to repo 
+## Instruction of start to repo 
+```
 
 git init
 
@@ -19,10 +20,15 @@ git remote add origin https://github.com/jeanmarcct/landinzone-cloud.git
 
 git push -u origin main
 
+```
 # Aditional instructions
+
+```
 
 git remote add origin https://github.com/jeanmarcct/landinzone-cloud.git
 
 git branch -M main
 
 git push -u origin main
+
+```
